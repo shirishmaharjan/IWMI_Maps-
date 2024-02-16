@@ -1,4 +1,4 @@
-# IWMI_Maps-
+# IWMI_Maps 
 Making Maps for Dailekh and Sarlahi District (IWMI : 16.02.2024)
 
 - Creating Classification Methods: equal interval, natural breaks (jenks) maps for Adaptive Capacity, Hazard, Sensitivity and Risk for normalized value for Dailekh and Sarlahi districts.
